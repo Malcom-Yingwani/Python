@@ -1,0 +1,1 @@
+fig.update_layout(xaxis_dtick = 1)
